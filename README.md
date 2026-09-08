@@ -3,8 +3,3 @@
 
 ### 💻 Working on:
 ![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrochedy&theme=dark&hide_border=false&layout=compact)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrochedy&theme=tokyo-night&custom_title=My%20Contributions&hide_border=true&bg_color=00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
